@@ -40,6 +40,11 @@
         "p_sink_file" : "AdventureWorks_Sales_2016.csv"
     },
     {
+        "p_rel_url" : "harshavenkatasai/AdventureWorksDataSet/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "p_sink_folder" : "AdventureWorks_Sales_2017",
+        "p_sink_file" : "AdventureWorks_Sales_2017.csv"
+    },
+    {
         "p_rel_url" : "harshavenkatasai/AdventureWorksDataSet/refs/heads/main/AdventureWorks_Territories.csv",
         "p_sink_folder" : "AdventureWorks_Territories",
         "p_sink_file" : "AdventureWorks_Territories.csv"
